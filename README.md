@@ -1,8 +1,10 @@
 ## Santander-Customer-Transaction-Prediction-Pyspark
 
-## Authors - Tejas Krishna Reddy, Issac and Bruno.
+#### Authors - Tejas Krishna Reddy, Issac and Bruno.
 
-Data can be downloaded in "Tejas Random Forest and Data" folder in the link https://drive.google.com/file/d/1RH4b6dCuWl4ulPL7Yq-dwsL86rbGZpNT/view?usp=sharing.
+Data can be downloaded in "Tejas Random Forest and Data" folder in the link
+
+```https://drive.google.com/file/d/1RH4b6dCuWl4ulPL7Yq-dwsL86rbGZpNT/view?usp=sharing.```
 
 ## Linear Regression
 To split the data into five folds, import splitData.py and run the following command: `splitData.makeFolds('filename', sparkContext)`
